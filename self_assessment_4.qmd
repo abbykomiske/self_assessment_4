@@ -1,0 +1,24 @@
+---
+title: "Self-assessment 4"
+author: Abby Komiske 
+doc: pdf 
+--- 
+
+## Progress 
+
+- What did you learn?
+
+In the last few weeks, I have learned a lot about explore, predict and, infer. I have taken to the explore area, but we will see with how that fits into my prospectus. I have really enjoyed learning about data analysis and think that the April 12th class was really helpful in understanding the statistical side of things. I have never really heard or seen it dicussed that way, although I have dealth with things like p-value and bell curves in other classes before. I have a much better understanding now.  
+
+- What was most/ least challenging?
+
+The most challenging part of the class remains the coding aspect, but breaking it down on the slides has really helped me stay on track for the greater points. 
+
+
+- What resources did you consult?
+
+I have consulted the textbook and the professor. 
+
+- What more would you like to know about?
+
+I would like to know more about frequency analysis as I take greater steps into looking at my corpus. To that end, I would like to know more about JSON, but that is an individual need with my own project. 
